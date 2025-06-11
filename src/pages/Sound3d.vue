@@ -13,7 +13,7 @@ import NextsProjects from '@/components/NextsProjects.vue'
 
 import sound3dVideo from '@/assets/videos/sound3d.mp4'
 
-import img1 from '@/assets/img/sound3d/s30.png'
+import img1 from '@/assets/img/sound3d/S30.png'
 import img2 from '@/assets/img/sound3d/s31.png'
 import img3 from '@/assets/img/sound3d/s32.png'
 import img4 from '@/assets/img/sound3d/s33.png'
