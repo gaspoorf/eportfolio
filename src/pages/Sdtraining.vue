@@ -65,7 +65,7 @@ onUnmounted(() => {
       link="https://www.sdtraining.fr/" 
       linkTitle="Visiter le site"
 
-      Secondlink="https://github.com/gaspoorf"
+      Secondlink="https://github.com/gaspoorf/sd-training-theme"
       SecondlinkTitle="Voir le GitHub"  
 
       :tools="['GSAP', 'SWUP', 'Js', 'Php', 'SCSS', 'Tailwind', 'WordPress', 'Timber', 'Twig']" 

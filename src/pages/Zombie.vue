@@ -66,7 +66,7 @@ onUnmounted(() => {
       link="https://gaspardhedde.fr/Zombie-Invasion.zip" 
       linkTitle="Télécharger le jeu"  
 
-      Secondlink="https://github.com/gaspoorf/" 
+      Secondlink="https://github.com/gaspoorf/zombie-invasion" 
       SecondlinkTitle="Voir le github"  
 
       :tools="['UNITY', 'C#', '3D']" 
