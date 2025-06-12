@@ -28,7 +28,7 @@
     <Navbar />
   </header>
 
-    <TextIntro msg="Developpeur creatif passionne<br/> par les nouvelles technologies et le developpement de sites web, d'applications et d'experiences immersives.<br/><br/> Actuellement à la recherche d'un apprentissage dans une agence web creative." />
+    <TextIntro msg="Developpeur creatif passionne<br/> par les nouvelles technologies et le developpement de sites web, d'applications et d'experiences immersives." />
 
     <Projects />
     <Baseline />
