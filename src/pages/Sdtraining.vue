@@ -111,12 +111,6 @@ onUnmounted(() => {
 </template>
 
 
-<script>
-  export default {
-    name: 'SDTraining'
-  }
-</script>
-
 
 <style scoped>
 header {

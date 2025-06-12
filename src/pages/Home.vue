@@ -36,13 +36,6 @@
   
 </template>
 
-<script>
-  export default {
-    name: 'Home'
-  }
-</script>
-
-
 <style scoped>
 header {
   line-height: 1.5;
