@@ -2,10 +2,10 @@
   "rewrites": [
     { "source": "/sdtraining", "destination": "/sdtraining.html" },
     { "source": "/quixotic", "destination": "/quixotic.html" },
-    { "source": "/drawhub", "destination": "/draw-hub.html" },
+    { "source": "/draw-hub", "destination": "/draw-hub.html" },
     { "source": "/windjee", "destination": "/windjee.html" },
     { "source": "/sound3d", "destination": "/sound3d.html" },
-    { "source": "/zombie", "destination": "/zombie-invasion.html" },
-    { "source": "/kingplouf", "destination": "/king-plouf.html" }
+    { "source": "/zombie-invasion", "destination": "/zombie-invasion.html" },
+    { "source": "/king-plouf", "destination": "/king-plouf.html" }
   ]
 }
