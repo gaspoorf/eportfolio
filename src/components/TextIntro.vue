@@ -16,7 +16,7 @@
         <div class="flex-row about font-larg">
             <p v-html="msg" class="text-intro"></p>
             <div class="link">
-                <a href="CV_Gaspard_Hedde.pdf" target="_blank" class="underline magic-hover magic-hover__square">
+                <a href="https://www.gaspardhedde.fr/CV_Gaspard_Hedde.pdf" target="_blank" class="underline magic-hover magic-hover__square">
                     Voir mon CV
                     <img :src="arrowIcon" class="arrow-back" alt="arrow back">
                 </a>
