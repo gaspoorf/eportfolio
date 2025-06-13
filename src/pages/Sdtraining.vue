@@ -71,15 +71,17 @@ onUnmounted(() => {
       :tools="['GSAP', 'SWUP', 'Js', 'Php', 'SCSS', 'Tailwind', 'WordPress', 'Timber', 'Twig']" 
 
       :skills="[
-        'C.E. 4.0.1 : Respect standards Web, accessibilité code clair.',
-        'C.E. 4.0.3 : Code modulaire et réutilisable, logique et affichage séparé.',
-        'C.E. 4.0.4 : Utilisation de Git.',
-        'AC34.04 : Conception de blocs Gutenberg dynamiques.',
-        'AC34.05 : Déploiement et mise en ligne.',
-        'C.E. 5.0.2 : Communication fluide avec le chef de projet et le client.',
-        'C.E. 5.0.3 : Respect RGPD, gestion des cookies...',
-        'C.E. 5.0.4 : Optimisation des performances.',
-        'AC35.02 : Tests qualité, responsive, UX...'
+        'CE 4.0.1 : Respect standards Web, accessibilité code clair.',
+        'CE 4.0.3 : Code modulaire et réutilisable, logique et affichage séparé.',
+        'CE 4.0.4 : Utilisation de Git.',
+        'CE 5.0.2 : Communication fluide avec le chef de projet et le client.',
+        'CE 5.0.3 : Respect RGPD, gestion des cookies...',
+        'CE 5.0.4 : Optimisation des performances.',
+        'CE 5.0.5 : Ecosystème WordPress (CMS mondiale), projet MVC.',
+        'AC 34.04 : Conception de blocs Gutenberg dynamiques.',
+        'AC 34.05 : Déploiement et mise en ligne.',
+        'AC 35.01 : Vrai client, besoin concret, gestion, suivi...',
+        'AC 35.02 : Tests qualité, responsive, UX...'
       ]" 
 
       context="Agence Here we com" 

@@ -72,13 +72,14 @@ onUnmounted(() => {
       :tools="['UNITY', 'C#', '3D']" 
 
       :skills="[
-        'AC34.03 : Jeux interactif, gestion d’IA et des interactions joueurs/zombies.',
-        'AC34.04 : Système d’IA et de gestion des vagues.',
-        'AC34.05 : Déploiement sur PC.',
-        'C.E. 4.0.2 : Concepts informatiques comme le Raycasting, gestion des collisions...',
-        'AC35.02 : Testant et corrigeant les bugs liés aux collisions et à l’IA.',
-        'C.E. 4.0.3 : Code fonctionnel et réutilisable, avec une architecture claire.',
-        'C.E. 5.0.1 : Veille technologique, notamment avec des tutoriels et outils.'
+        'CE 4.0.2 : Concepts informatiques comme le Raycasting, gestion des collisions...',
+        'CE 4.0.3 : Code fonctionnel et réutilisable, avec une architecture claire.',
+        'CE 5.0.1 : Veille technologique, notamment avec des tutoriels et outils.',
+        'AC 34.03 : Jeux interactif, gestion d’IA et des interactions joueurs/zombies.',
+        'AC 34.04 : Système d’IA et de gestion des vagues.',
+        'AC 34.05 : Déploiement sur PC.',
+        'AC 35.02 : Testant et corrigeant les bugs liés aux collisions et à l’IA.',
+        'AC 35.04 : Soutenance technique et présentation.'
       ]"
 
       context="Projet universitaire" 

@@ -73,13 +73,15 @@ onUnmounted(() => {
       :tools="['HTML', 'CSS', 'JS', 'Websockets', 'Express', 'Node.js', 'Render']" 
 
       :skills="[
-        'AC34.02 : Développement côté serveur, Node.js et WebSockets.',
-        'AC34.03 : Dispositif interactif complexe en temps réel.', 
-        'AC34.05 : Hébergement de l’app dynamique avec Render.', 
-        'C.E. 4.0.1 : Respect des standards Web, accessible et responsive.', 
-        'C.E. 4.0.2 : Concepts d’architecture client-serveur.', 
-        'C.E. 4.0.3 : Code sobre et réutilisable.',
-        'AC35.02 : Qualité et à la fluidité de l’expérience utilisateur.'
+        'CE 4.0.1 : Respect des standards Web, accessible et responsive.', 
+        'CE 4.0.2 : Concepts d’architecture client-serveur.', 
+        'CE 4.0.3 : Code sobre et réutilisable.',
+        'AC 34.02 : Développement côté serveur, Node.js et WebSockets.',
+        'AC 34.03 : Dispositif interactif complexe en temps réel.', 
+        'AC 34.05 : Hébergement de l’app dynamique avec Render.', 
+        'AC 35.02 : Qualité et à la fluidité de l’expérience utilisateur.',
+        'AC 35.03 : Projet avec potentiel de marque, service innovant, cible définie...',
+        'AC 35.04 : Soutenance technique et présentation.'
       ]" 
 
 

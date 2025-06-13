@@ -72,9 +72,9 @@ onUnmounted(() => {
       :tools="['Vue.js', 'Three.js', 'WebGL', 'GSAP', 'Node.js', 'API Deezer']" 
 
       :skills="[
-        'C.E 4.0 3 : Code fonctionnel, sobre et réutilisable.',
-        'C.E 4.0 4 : Utilisation de Git.', 
-        'C.E 5.0 1 : Veille technologique, découverte de Three.js.', 
+        'CE 4.0.3 : Code fonctionnel, sobre et réutilisable.',
+        'CE 4.0.4 : Utilisation de Git.', 
+        'CE 5.0.1 : Veille technologique, découverte de Three.js.', 
         'AC 34.01 : Framework côté client, Vue.js', 
         'AC 34.05 : Hébergement et déploiement avec Vercel', 
         'AC 35.02 : Qualité en projet Web, soin apporté à la fluidité et à l’expérience utilisateur.'
