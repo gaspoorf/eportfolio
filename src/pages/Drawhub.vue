@@ -70,7 +70,7 @@ onUnmounted(() => {
       Secondlink="https://github.com/gaspoorf/DrawingHub" 
       SecondlinkTitle="Voir le GitHub"  
 
-      :tools="['Websockets', 'Js', 'Express', 'Node.js', 'Render']" 
+      :tools="['HTML', 'CSS', 'JS', 'Websockets', 'Express', 'Node.js', 'Render']" 
 
       :skills="[
         'AC34.02 : Développement côté serveur, Node.js et WebSockets.',
